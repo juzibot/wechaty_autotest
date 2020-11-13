@@ -1,0 +1,2 @@
+
+ts-node startSync.ts

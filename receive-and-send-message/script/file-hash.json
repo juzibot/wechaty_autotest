@@ -1,0 +1,230 @@
+{
+  "acbbb63cec5294e06b31c73d214b149c": {
+    "type": "Image",
+    "name": "Image-png-3K.png",
+    "url": "https://juzi-work-message-media.s3.cn-northwest-1.amazonaws.com.cn/message/wwf8b2cb957b9b5bc1/acbbb63cec5294e06b31c73d214b149c/image.png",
+    "hash": "acbbb63cec5294e06b31c73d214b149c"
+  },
+  "617f868d6217743975492dc52b92fcc1": {
+    "type": "Image",
+    "name": "Image-png-20K.png",
+    "url": "https://juzi-work-message-media.s3.cn-northwest-1.amazonaws.com.cn/message/wwf8b2cb957b9b5bc1/617f868d6217743975492dc52b92fcc1/image.png",
+    "hash": "617f868d6217743975492dc52b92fcc1"
+  },
+  "3ce281fd7ce3764045b7ab2b4e38ab10": {
+    "type": "Image",
+    "name": "Image-png-100K.png",
+    "url": "https://s3.cn-north-1.amazonaws.com.cn/xiaoju-material/public/rc-upload-1602042358977-6_1602042386145_100k.png",
+    "hash": "3ce281fd7ce3764045b7ab2b4e38ab10"
+  },
+  "259a132a9502d070ab20b099d90bb736": {
+    "type": "Image",
+    "name": "Image-jpg-500K.jpg",
+    "url": "https://s3.cn-north-1.amazonaws.com.cn/xiaoju-material/public/rc-upload-1602042587168-9_1602090140543_500k.jpg",
+    "hash": "259a132a9502d070ab20b099d90bb736"
+  },
+  "eb78850ddcd68ce6f6a90507553e1f49": {
+    "type": "Image",
+    "name": "Image-png-1M.png",
+    "url": "https://s3.cn-north-1.amazonaws.com.cn/xiaoju-material/public/rc-upload-1602042587168-2_1602089405685_1M.png",
+    "hash": "eb78850ddcd68ce6f6a90507553e1f49"
+  },
+  "f1919b2f751437dcff3a3e53df650ebf": {
+    "type": "Image",
+    "name": "Image-png-3M.png",
+    "url": "https://s3.cn-north-1.amazonaws.com.cn/xiaoju-material/public/rc-upload-1602042358977-3_1602042386112_3M.png",
+    "hash": "f1919b2f751437dcff3a3e53df650ebf"
+  },
+  "f98260a3edf82154a04d76f5655da680": {
+    "type": "Image",
+    "name": "Image-png-5M.png",
+    "url": "https://s3.cn-north-1.amazonaws.com.cn/xiaoju-material/public/rc-upload-1602042587168-3_1602089405763_5M.png",
+    "hash": "f98260a3edf82154a04d76f5655da680"
+  },
+  "241b45e59f8cfc8fe422d4309fbe1871": {
+    "type": "Image",
+    "name": "Image-png-10M.png",
+    "url": "https://s3.cn-north-1.amazonaws.com.cn/xiaoju-material/public/rc-upload-1602042587168-4_1602089405795_10M.png",
+    "hash": "241b45e59f8cfc8fe422d4309fbe1871"
+  },
+  "f7437d48f24822bcdafda621e50c5edd": {
+    "type": "Image",
+    "name": "Image-jpg-100K.jpg",
+    "url": "https://s3.cn-north-1.amazonaws.com.cn/xiaoju-material/public/rc-upload-1602042587168-8_1602090140510_100k.jpg",
+    "hash": "f7437d48f24822bcdafda621e50c5edd"
+  },
+  "71f54ce0fe254dc9e8e164d2cb45cbef": {
+    "type": "Image",
+    "name": "Image-jpg-1M.jpg",
+    "url": "https://s3.cn-north-1.amazonaws.com.cn/xiaoju-material/public/rc-upload-1602042587168-6_1602090140362_1M.jpg",
+    "hash": "71f54ce0fe254dc9e8e164d2cb45cbef"
+  },
+  "bc60d20d882f8e7e40422ba891a691f1": {
+    "type": "Image",
+    "name": "Image-jpg-3M.jpg",
+    "url": "https://s3.cn-north-1.amazonaws.com.cn/xiaoju-material/public/rc-upload-1602042587168-7_1602090140482_3M.jpg",
+    "hash": "bc60d20d882f8e7e40422ba891a691f1"
+  },
+  "2896de904adb856816b614191d766be7": {
+    "type": "Image",
+    "name": "Image-jpg-5M.JPG",
+    "url": "https://s3.cn-north-1.amazonaws.com.cn/xiaoju-material/public/rc-upload-1602042358977-4_1602042386123_5M.JPG",
+    "hash": "2896de904adb856816b614191d766be7"
+  },
+  "15ded860437d4832556351cbca16e037": {
+    "type": "Image",
+    "name": "Image-jpg-10M.jpg",
+    "url": "https://s3.cn-north-1.amazonaws.com.cn/xiaoju-material/public/rc-upload-1602042358977-5_1602042386132_10M.jpg",
+    "hash": "15ded860437d4832556351cbca16e037"
+  },
+  "c3dd33955aacf9704d67a261bed4db86": {
+    "type": "Image",
+    "name": "Image-jpeg-100K.jpeg",
+    "url": "https://s3.cn-north-1.amazonaws.com.cn/xiaoju-material/public/rc-upload-1602042587168-13_1602090163380_100k.jpeg",
+    "hash": "c3dd33955aacf9704d67a261bed4db86"
+  },
+  "2d31e60912583f93fd2d0421784afd91": {
+    "type": "Image",
+    "name": "Image-jpeg-500K.jpeg",
+    "url": "https://s3.cn-north-1.amazonaws.com.cn/xiaoju-material/public/rc-upload-1602042587168-14_1602090163404_500k.jpeg",
+    "hash": "2d31e60912583f93fd2d0421784afd91"
+  },
+  "e68fa8b811226ea2f11ea79853be60ce": {
+    "type": "Image",
+    "name": "Image-jpeg-1M.jpeg",
+    "url": "https://s3.cn-north-1.amazonaws.com.cn/xiaoju-material/public/rc-upload-1602042358977-2_1602042386059_1M.jpeg",
+    "hash": "e68fa8b811226ea2f11ea79853be60ce"
+  },
+  "8bf29a3f1c9f224285613022db642d53": {
+    "type": "Image",
+    "name": "Image-jpeg-3M.jpeg",
+    "url": "https://s3.cn-north-1.amazonaws.com.cn/xiaoju-material/public/rc-upload-1602042587168-10_1602090163253_3M.jpeg",
+    "hash": "8bf29a3f1c9f224285613022db642d53"
+  },
+  "fad175c48e2be6aff62e173be8c51ef2": {
+    "type": "Image",
+    "name": "Image-jpeg-5M.jpeg",
+    "url": "https://s3.cn-north-1.amazonaws.com.cn/xiaoju-material/public/rc-upload-1602042587168-11_1602090163276_5M.jpeg",
+    "hash": "fad175c48e2be6aff62e173be8c51ef2"
+  },
+  "e171e3bdcefbfb93cbac84f60370d1e3": {
+    "type": "Image",
+    "name": "Image-jpeg-10M.jpeg",
+    "url": "https://s3.cn-north-1.amazonaws.com.cn/xiaoju-material/public/rc-upload-1602042587168-12_1602090163296_10M.jpeg",
+    "hash": "e171e3bdcefbfb93cbac84f60370d1e3"
+  },
+  "31032475a73347f04d8af4e0142fd594": {
+    "type": "Attachment",
+    "name": "Attachment-txt-500K.txt",
+    "url": "https://s3.cn-north-1.amazonaws.com.cn/xiaoju-material/public/rc-upload-1602042587168-17_1602090288551_500k.txt",
+    "hash": "31032475a73347f04d8af4e0142fd594"
+  },
+  "e008e1ddbb627cb7ad284a80e64e8a58": {
+    "type": "Attachment",
+    "name": "Attachment-txt-3M.txt",
+    "url": "https://s3.cn-north-1.amazonaws.com.cn/xiaoju-material/public/rc-upload-1602042587168-16_1602090288510_3M.txt",
+    "hash": "e008e1ddbb627cb7ad284a80e64e8a58"
+  },
+  "8bd403af709c828afe3b04fc128c836c": {
+    "type": "Attachment",
+    "name": "Attachment-doc-500K.docx",
+    "url": "https://s3.cn-north-1.amazonaws.com.cn/xiaoju-material/public/rc-upload-1602042358977-13_1602042406449_500k.docx",
+    "hash": "8bd403af709c828afe3b04fc128c836c"
+  },
+  "c640ebddd20c09b7f2d8416b71690348": {
+    "type": "Attachment",
+    "name": "Attachment-doc-3M.doc",
+    "url": "https://s3.cn-north-1.amazonaws.com.cn/xiaoju-material/public/rc-upload-1602042587168-27_1602092042245_3M.doc",
+    "hash": "c640ebddd20c09b7f2d8416b71690348"
+  },
+  "409253d791ff8e770c9df46dada26b6c": {
+    "type": "Attachment",
+    "name": "Attachment-doc-5M.docx",
+    "url": "https://s3.cn-north-1.amazonaws.com.cn/xiaoju-material/public/rc-upload-1602042587168-28_1602092042276_5M.docx",
+    "hash": "409253d791ff8e770c9df46dada26b6c"
+  },
+  "7348d9268436f0e7dfd8ea0b992960e0": {
+    "type": "Attachment",
+    "name": "Attachment-doc-18M.docx",
+    "url": "https://s3.cn-north-1.amazonaws.com.cn/xiaoju-material/public/rc-upload-1602042587168-29_1602092042310_18M.docx",
+    "hash": "7348d9268436f0e7dfd8ea0b992960e0"
+  },
+  "1426bb7bedf597c922a1bc10585bab90": {
+    "type": "Attachment",
+    "name": "Attachment-xlsx-500K.xlsx",
+    "url": "https://s3.cn-north-1.amazonaws.com.cn/xiaoju-material/public/rc-upload-1602042587168-31_1602092063765_500k.xlsx",
+    "hash": "1426bb7bedf597c922a1bc10585bab90"
+  },
+  "b43889540f145c4e5be8628ba6633c14": {
+    "type": "Attachment",
+    "name": "Attachment-xlsx-3M.xlsx",
+    "url": "https://s3.cn-north-1.amazonaws.com.cn/xiaoju-material/public/rc-upload-1602042587168-30_1602092063715_3M.xlsx",
+    "hash": "b43889540f145c4e5be8628ba6633c14"
+  },
+  "767f1cf37314325e432ef613db349b46": {
+    "type": "Attachment",
+    "name": "Attachment-ppt-800K.pptx",
+    "url": "https://s3.cn-north-1.amazonaws.com.cn/xiaoju-material/public/rc-upload-1602042587168-26_1602092016180_800k.pptx",
+    "hash": "767f1cf37314325e432ef613db349b46"
+  },
+  "09730035c822187f06b5fc8fc5cd66e5": {
+    "type": "Attachment",
+    "name": "Attachment-ppt-3M.ppt",
+    "url": "https://s3.cn-north-1.amazonaws.com.cn/xiaoju-material/public/rc-upload-1602042587168-22_1602092015936_3M.ppt",
+    "hash": "09730035c822187f06b5fc8fc5cd66e5"
+  },
+  "26d5557bef3d60f630117e210c7e400e": {
+    "type": "Attachment",
+    "name": "Attachment-ppt-5M.pptx",
+    "url": "https://s3.cn-north-1.amazonaws.com.cn/xiaoju-material/public/rc-upload-1602042587168-23_1602092016013_5M.pptx",
+    "hash": "26d5557bef3d60f630117e210c7e400e"
+  },
+  "60a1909971354db220265e5e1d899e5f": {
+    "type": "Attachment",
+    "name": "Attachment-ppt-10M.pptx",
+    "url": "https://s3.cn-north-1.amazonaws.com.cn/xiaoju-material/public/rc-upload-1602042587168-24_1602092016078_10M.pptx",
+    "hash": "60a1909971354db220265e5e1d899e5f"
+  },
+  "a2dabf7417791bcae99989976934b1a3": {
+    "type": "Attachment",
+    "name": "Attachment-ppt-20M.ppt",
+    "url": "https://s3.cn-north-1.amazonaws.com.cn/xiaoju-material/public/rc-upload-1602042587168-25_1602092016136_20M.ppt",
+    "hash": "a2dabf7417791bcae99989976934b1a3"
+  },
+  "8c425938f7b8644bfa243c9ec03e4d4c": {
+    "type": "Attachment",
+    "name": "Attachment-pdf-1M.pdf",
+    "url": "https://s3.cn-north-1.amazonaws.com.cn/xiaoju-material/public/rc-upload-1602042358977-8_1602042406352_1M.pdf",
+    "hash": "8c425938f7b8644bfa243c9ec03e4d4c"
+  },
+  "c674437871632ec9cf61a1b1a54acfe6": {
+    "type": "Attachment",
+    "name": "Attachment-pdf-3M.pdf",
+    "url": "https://s3.cn-north-1.amazonaws.com.cn/xiaoju-material/public/rc-upload-1602042358977-9_1602042406397_3M.pdf",
+    "hash": "c674437871632ec9cf61a1b1a54acfe6"
+  },
+  "1da87f636cc9ba86de431097fd63888c": {
+    "type": "Attachment",
+    "name": "Attachment-pdf-5M.pdf",
+    "url": "https://s3.cn-north-1.amazonaws.com.cn/xiaoju-material/public/rc-upload-1602042358977-10_1602042406410_5M.pdf",
+    "hash": "1da87f636cc9ba86de431097fd63888c"
+  },
+  "398170a127e2ae7d9dded3ee4ab693e3": {
+    "type": "Attachment",
+    "name": "Attachment-pdf-10M.pdf",
+    "url": "https://s3.cn-north-1.amazonaws.com.cn/xiaoju-material/public/rc-upload-1602042358977-11_1602042406423_10M.pdf",
+    "hash": "398170a127e2ae7d9dded3ee4ab693e3"
+  },
+  "8a71e889f2acd10b2357a201d3b35a5f": {
+    "type": "Attachment",
+    "name": "Attachment-pdf-25M.pdf",
+    "url": "https://s3.cn-north-1.amazonaws.com.cn/xiaoju-material/public/rc-upload-1602042358977-12_1602042406437_25M.pdf",
+    "hash": "8a71e889f2acd10b2357a201d3b35a5f"
+  },
+  "923ad5725d01aefb067515eca3a689d4": {
+    "type": "Video",
+    "name": "Video-mp4-5M.MP4",
+    "url": "https://xiaoju-cdn.s3.cn-northwest-1.amazonaws.com.cn/xiaoju-bot-pc-test/bot-test-video.MP4",
+    "hash": "923ad5725d01aefb067515eca3a689d4"
+  }
+}

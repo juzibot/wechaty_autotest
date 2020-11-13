@@ -1,0 +1,78 @@
+{
+  "TESTENDING": "#TESTENDING",
+  "Text": {
+    "T1": "1",
+    "T2": "2",
+    "T3": "各种文本的可扩展性",
+    "T4": "================"
+  },
+  "Image":{
+    "png": {
+      "3K": "https://juzi-work-message-media.s3.cn-northwest-1.amazonaws.com.cn/message/wwf8b2cb957b9b5bc1/acbbb63cec5294e06b31c73d214b149c/image.png",
+      "20K": "https://juzi-work-message-media.s3.cn-northwest-1.amazonaws.com.cn/message/wwf8b2cb957b9b5bc1/617f868d6217743975492dc52b92fcc1/image.png",
+      "100K":"https://s3.cn-north-1.amazonaws.com.cn/xiaoju-material/public/rc-upload-1602042358977-6_1602042386145_100k.png",
+      "500K":"https://s3.cn-north-1.amazonaws.com.cn/xiaoju-material/public/rc-upload-1602042358977-7_1602042386163_500k.png",
+      "1M":"https://s3.cn-north-1.amazonaws.com.cn/xiaoju-material/public/rc-upload-1602042587168-2_1602089405685_1M.png",
+      "3M":"https://s3.cn-north-1.amazonaws.com.cn/xiaoju-material/public/rc-upload-1602042358977-3_1602042386112_3M.png",
+      "5M":"https://s3.cn-north-1.amazonaws.com.cn/xiaoju-material/public/rc-upload-1602042587168-3_1602089405763_5M.png",
+      "10M":"https://s3.cn-north-1.amazonaws.com.cn/xiaoju-material/public/rc-upload-1602042587168-4_1602089405795_10M.png"
+    },
+    "jpg": {
+      "100K":"https://s3.cn-north-1.amazonaws.com.cn/xiaoju-material/public/rc-upload-1602042587168-8_1602090140510_100k.jpg",
+      "500K":"https://s3.cn-north-1.amazonaws.com.cn/xiaoju-material/public/rc-upload-1602042587168-9_1602090140543_500k.jpg",
+      "1M":"https://s3.cn-north-1.amazonaws.com.cn/xiaoju-material/public/rc-upload-1602042587168-6_1602090140362_1M.jpg",
+      "3M":"https://s3.cn-north-1.amazonaws.com.cn/xiaoju-material/public/rc-upload-1602042587168-7_1602090140482_3M.jpg",
+      "5M":"https://s3.cn-north-1.amazonaws.com.cn/xiaoju-material/public/rc-upload-1602042358977-4_1602042386123_5M.JPG",
+      "10M":"https://s3.cn-north-1.amazonaws.com.cn/xiaoju-material/public/rc-upload-1602042358977-5_1602042386132_10M.jpg"
+    },
+    "jpeg": {
+      "100K":"https://s3.cn-north-1.amazonaws.com.cn/xiaoju-material/public/rc-upload-1602042587168-13_1602090163380_100k.jpeg",
+      "500K":"https://s3.cn-north-1.amazonaws.com.cn/xiaoju-material/public/rc-upload-1602042587168-14_1602090163404_500k.jpeg",
+      "1M":"https://s3.cn-north-1.amazonaws.com.cn/xiaoju-material/public/rc-upload-1602042358977-2_1602042386059_1M.jpeg",
+      "3M":"https://s3.cn-north-1.amazonaws.com.cn/xiaoju-material/public/rc-upload-1602042587168-10_1602090163253_3M.jpeg",
+      "5M":"https://s3.cn-north-1.amazonaws.com.cn/xiaoju-material/public/rc-upload-1602042587168-11_1602090163276_5M.jpeg",
+      "10M":"https://s3.cn-north-1.amazonaws.com.cn/xiaoju-material/public/rc-upload-1602042587168-12_1602090163296_10M.jpeg"
+    }
+  },
+  "Attachment": {
+    "txt": {
+      "500K":"https://s3.cn-north-1.amazonaws.com.cn/xiaoju-material/public/rc-upload-1602042587168-17_1602090288551_500k.txt",
+      "3M":"https://s3.cn-north-1.amazonaws.com.cn/xiaoju-material/public/rc-upload-1602042587168-16_1602090288510_3M.txt"
+    },
+    "doc": {
+      "500K":"https://s3.cn-north-1.amazonaws.com.cn/xiaoju-material/public/rc-upload-1602042358977-13_1602042406449_500k.docx",
+      "3M":"https://s3.cn-north-1.amazonaws.com.cn/xiaoju-material/public/rc-upload-1602042587168-27_1602092042245_3M.doc",
+      "5M":"https://s3.cn-north-1.amazonaws.com.cn/xiaoju-material/public/rc-upload-1602042587168-28_1602092042276_5M.docx",
+      "18M":"https://s3.cn-north-1.amazonaws.com.cn/xiaoju-material/public/rc-upload-1602042587168-29_1602092042310_18M.docx"
+    },
+    "xlsx": {
+      "500K":"https://s3.cn-north-1.amazonaws.com.cn/xiaoju-material/public/rc-upload-1602042587168-31_1602092063765_500k.xlsx",
+      "3M":"https://s3.cn-north-1.amazonaws.com.cn/xiaoju-material/public/rc-upload-1602042587168-30_1602092063715_3M.xlsx"
+    },
+    "ppt": {
+      "800K":"https://s3.cn-north-1.amazonaws.com.cn/xiaoju-material/public/rc-upload-1602042587168-26_1602092016180_800k.pptx",
+      "3M":"https://s3.cn-north-1.amazonaws.com.cn/xiaoju-material/public/rc-upload-1602042587168-22_1602092015936_3M.ppt",
+      "5M":"https://s3.cn-north-1.amazonaws.com.cn/xiaoju-material/public/rc-upload-1602042587168-23_1602092016013_5M.pptx",
+      "10M":"https://s3.cn-north-1.amazonaws.com.cn/xiaoju-material/public/rc-upload-1602042587168-24_1602092016078_10M.pptx",
+      "20M":"https://s3.cn-north-1.amazonaws.com.cn/xiaoju-material/public/rc-upload-1602042587168-25_1602092016136_20M.ppt"
+    },
+    "pdf": {
+      "1M":"https://s3.cn-north-1.amazonaws.com.cn/xiaoju-material/public/rc-upload-1602042358977-8_1602042406352_1M.pdf",
+      "3M":"https://s3.cn-north-1.amazonaws.com.cn/xiaoju-material/public/rc-upload-1602042358977-9_1602042406397_3M.pdf",
+      "5M":"https://s3.cn-north-1.amazonaws.com.cn/xiaoju-material/public/rc-upload-1602042358977-10_1602042406410_5M.pdf",
+      "10M":"https://s3.cn-north-1.amazonaws.com.cn/xiaoju-material/public/rc-upload-1602042358977-11_1602042406423_10M.pdf",
+      "25M":"https://s3.cn-north-1.amazonaws.com.cn/xiaoju-material/public/rc-upload-1602042358977-12_1602042406437_25M.pdf"
+    }
+  },
+  "Video": {
+    "mp4": {
+      "5M": "https://xiaoju-cdn.s3.cn-northwest-1.amazonaws.com.cn/xiaoju-bot-pc-test/bot-test-video.MP4"
+    }
+  },
+  "Url": {
+    "description":"只要你在微信上做生意就能用到我们的产品，致力于提供市场上最好的私域流量工具包。",
+    "thumbnailUrl":"https://s3.cn-north-1.amazonaws.com.cn/xiaoju-material/public/rc-upload-1602042358977-6_1602042386145_100k.png",
+    "title":"句子互动",
+    "url":"https://www.juzibot.com/"
+  }
+}

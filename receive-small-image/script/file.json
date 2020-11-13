@@ -1,0 +1,25 @@
+{
+  "TESTENDING": "#TESTENDING",
+  "Text": {
+    "T1": "1",
+    "T2": "2",
+    "T3": "各种文本的可扩展性",
+    "T4": "================"
+  },
+  "Image":{
+    "png": {
+      "3K": "https://juzi-work-message-media.s3.cn-northwest-1.amazonaws.com.cn/message/wwf8b2cb957b9b5bc1/acbbb63cec5294e06b31c73d214b149c/image.png",
+      "20K": "https://juzi-work-message-media.s3.cn-northwest-1.amazonaws.com.cn/message/wwf8b2cb957b9b5bc1/617f868d6217743975492dc52b92fcc1/image.png",
+      "100K":"https://s3.cn-north-1.amazonaws.com.cn/xiaoju-material/public/rc-upload-1602042358977-6_1602042386145_100k.png",
+      "500K":"https://s3.cn-north-1.amazonaws.com.cn/xiaoju-material/public/rc-upload-1602042358977-7_1602042386163_500k.png"
+    },
+    "jpg": {
+      "100K":"https://s3.cn-north-1.amazonaws.com.cn/xiaoju-material/public/rc-upload-1602042587168-8_1602090140510_100k.jpg",
+      "500K":"https://s3.cn-north-1.amazonaws.com.cn/xiaoju-material/public/rc-upload-1602042587168-9_1602090140543_500k.jpg"
+    },
+    "jpeg": {
+      "100K":"https://s3.cn-north-1.amazonaws.com.cn/xiaoju-material/public/rc-upload-1602042587168-13_1602090163380_100k.jpeg",
+      "500K":"https://s3.cn-north-1.amazonaws.com.cn/xiaoju-material/public/rc-upload-1602042587168-14_1602090163404_500k.jpeg"
+    }
+  }
+}
