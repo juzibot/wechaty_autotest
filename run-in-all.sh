@@ -21,7 +21,7 @@ sh ./run.sh
 
 # wait DURATION_MM - 30 min
 sleep 1800
-pkill -f ts-node
+ps aux | grep -i startSync | awk {'print $2'} | xargs kill -9
 pkill -f pm2
 
 
@@ -36,7 +36,7 @@ running flood-message
 # 4. stop
 pm2 del flood-message
 # 5. kill start sync
-pkill -f ts-node
+ps aux | grep -i startSync | awk {'print $2'} | xargs kill -9
 
 
 # group-chat
@@ -56,8 +56,7 @@ running groupOp
 # 7. stop
 pm2 del groupOp
 # 8. kill start sync
-pkill -f ts-node
-
+ps aux | grep -i startSync | awk {'print $2'} | xargs kill -9
 
 # loading
 cd $MYROOT/loading/script
@@ -70,8 +69,7 @@ running loading
 # 4. stop
 pm2 del loading
 # 5. kill start sync
-pkill -f ts-node
-
+ps aux | grep -i startSync | awk {'print $2'} | xargs kill -9
 
 # loading-lost-tag
 cd $MYROOT/loading-lost-tag/script
